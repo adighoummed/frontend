@@ -1,0 +1,52 @@
+2024-01-29 21:51:22 DEBUG BasicE2ETest:24 - Setting property "webdriver.chrome.driver" to have chromedriver location
+2024-01-29 21:51:22 DEBUG BasicE2ETest:27 - Instantiating a chrome driver
+2024-01-29 21:51:24 DEBUG BasicE2ETest:34 - Getting URL https://main.d2t1pk7fjag8u6.amplifyapp.com/
+2024-01-29 21:51:26 DEBUG BasicE2ETest:20 - Starting test
+2024-01-29 21:51:26 DEBUG BasicE2ETest:42 - Logging in
+2024-01-29 21:51:27 DEBUG LoginPage:33 - Logging in with email samgomed@gmail.com
+2024-01-29 21:51:27 DEBUG BasicE2ETest:50 - Add the following proudcts to cart
+2024-01-29 21:51:27 DEBUG BasicE2ETest:51 - Product: 2, Quantity: 3
+2024-01-29 21:51:27 DEBUG BasicE2ETest:51 - Product: 1, Quantity: 1
+2024-01-29 21:51:29 DEBUG BasicE2ETest:58 - Browsing shopping cart
+2024-01-29 21:51:29 DEBUG BasicE2ETest:61 - Validating the cart content
+2024-01-29 21:51:29 DEBUG CartPage:32 - Getting products in the cart
+2024-01-29 21:51:29 DEBUG BasicE2ETest:64 - Products in the cart:
+2024-01-29 21:51:29 DEBUG BasicE2ETest:65 - Product: 1, Quantity: 1
+2024-01-29 21:51:29 DEBUG BasicE2ETest:65 - Product: 2, Quantity: 3
+2024-01-29 21:51:29 DEBUG BasicE2ETest:68 - Proceeding to checkout
+2024-01-29 21:51:29 DEBUG BasicE2ETest:71 - Completing checkout
+2024-01-29 21:51:29 DEBUG CheckoutPage:30 - Shipping Address: North Carolina
+2024-01-29 21:51:29 DEBUG CheckoutPage:35 - Clicking the "Complete Checkout" button
+2024-01-29 21:51:29 DEBUG CheckoutPage:41 - Getting order ID from the alert
+2024-01-29 21:51:31 DEBUG CheckoutPage:46 - Order ID: 670722a8-8cae-4dd1-b4e5-fd6de2d7e3af
+2024-01-29 21:51:31 DEBUG BasicE2ETest:77 - Browsing order
+2024-01-29 21:51:31 DEBUG BasicE2ETest:80 - Validating order 670722a8-8cae-4dd1-b4e5-fd6de2d7e3af
+2024-01-29 21:52:02 DEBUG BasicE2ETest:83 - Products in the order:
+2024-01-29 21:52:03 DEBUG BasicE2ETest:87 - Signing out
+2024-01-29 21:52:03 DEBUG BasicE2ETest:94 - Ending test
+2024-01-29 22:16:19 DEBUG BasicE2ETest:24 - Setting property "webdriver.chrome.driver" to have chromedriver location
+2024-01-29 22:16:19 DEBUG BasicE2ETest:27 - Instantiating a chrome driver
+2024-01-29 22:16:21 DEBUG BasicE2ETest:34 - Getting URL https://main.d2t1pk7fjag8u6.amplifyapp.com/
+2024-01-29 22:16:23 DEBUG BasicE2ETest:20 - Starting test
+2024-01-29 22:16:23 DEBUG BasicE2ETest:42 - Logging in
+2024-01-29 22:16:23 DEBUG LoginPage:33 - Logging in with email samgomed@gmail.com
+2024-01-29 22:16:23 DEBUG BasicE2ETest:50 - Add the following proudcts to cart
+2024-01-29 22:16:23 DEBUG BasicE2ETest:51 - Product: 2, Quantity: 3
+2024-01-29 22:16:23 DEBUG BasicE2ETest:51 - Product: 1, Quantity: 1
+2024-01-29 22:16:25 DEBUG BasicE2ETest:58 - Browsing shopping cart
+2024-01-29 22:16:25 DEBUG BasicE2ETest:61 - Validating the cart content
+2024-01-29 22:16:25 DEBUG CartPage:32 - Getting products in the cart
+2024-01-29 22:16:25 DEBUG BasicE2ETest:64 - Products in the cart:
+2024-01-29 22:16:25 DEBUG BasicE2ETest:65 - Product: 1, Quantity: 1
+2024-01-29 22:16:25 DEBUG BasicE2ETest:65 - Product: 2, Quantity: 3
+2024-01-29 22:16:25 DEBUG BasicE2ETest:68 - Proceeding to checkout
+2024-01-29 22:16:25 DEBUG BasicE2ETest:71 - Completing checkout
+2024-01-29 22:16:25 DEBUG CheckoutPage:30 - Shipping Address: North Carolina
+2024-01-29 22:16:26 DEBUG CheckoutPage:35 - Clicking the "Complete Checkout" button
+2024-01-29 22:16:26 DEBUG CheckoutPage:41 - Getting order ID from the alert
+2024-01-29 22:16:27 DEBUG CheckoutPage:46 - Order ID: 25a1c43e-a89a-4a47-b280-497b220b3361
+2024-01-29 22:16:27 DEBUG BasicE2ETest:77 - Browsing order
+2024-01-29 22:16:27 DEBUG BasicE2ETest:80 - Validating order 25a1c43e-a89a-4a47-b280-497b220b3361
+2024-01-29 22:16:59 DEBUG BasicE2ETest:83 - Products in the order:
+2024-01-29 22:16:59 DEBUG BasicE2ETest:87 - Signing out
+2024-01-29 22:16:59 DEBUG BasicE2ETest:94 - Ending test
