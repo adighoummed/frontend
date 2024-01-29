@@ -34,7 +34,7 @@ jobs:
     - name: Get relevant chromedriver print current version of chrome on worker
       run: npx @puppeteer/browsers install chromedriver@120.0.6099.109
     - name: Copy updated chromedriver to the location defined in project properties
-      run: cp -f ./chromedriver/mac-120.0.6099.109/chromedriver-mac-x64/chromedriver ./legit/resources/chromedriver   
+      run: cp -f ./chromedriver/mac-120.0.6099.109/chromedriver-mac-x64/chromedriver ./resources/chromedriver   
     - name: Build with Maven
       run: mvn -B package --file pom.xml
     - name: Run basic E2E test
